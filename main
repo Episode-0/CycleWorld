@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+
+
+<link rel="stylesheet" href="styles.css">
+
+
+<title>
+    Cycle World
+</title>
+
+
+<html>
+    <main>
+    <header>
+        <img src="https://img.icons8.com/?size=100&id=9823&format=png&color=000000"
+        height="68px" width="68px">
+
+
+        <h1>
+            <p>
+               &#x1F6B2; Cycle World &#x1F6B2;
+            </p>
+        </h1>
+        <br>
+        <br>
+
+
+        <p>
+            <a href="">О нас</a>
+            <a href="">Продукция</a>
+            <a href="">Контакты</a>
+        </p>
+    </header>
+
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+    <body>
+
+
+        <h3>
+            <p>
+                ⎝ ВЕЛОСИПЕДЫ ⎠
+            </p>
+        </h3>
+
+
+        <table class="cycle">
+            <tr>
+                <td>
+                    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                        height="68px" width="68px">
+                </td>
+                <td>
+                    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                        height="68px" width="68px">
+                </td>
+                <td>
+                    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                        height="68px" width="68px">
+                </td>
+            </tr>
+
+
+            <tr style="margin-left: 400px;">
+                <td>
+                    <h2>Cyclotech 20.1 HTP &#x1F6B2;</h2>
+                </td>
+                <td>
+                    <h2 style >ADRIATICA &#x1F6B2;</h2>
+                </td>
+                <td>
+                    <h2>Cube Nutrail &#x1F6B2;</h2>
+                </td>
+            </tr>
+
+
+        <tr>
+            <td>
+                <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                    height="68px" width="68px">
+            </td>
+            <td>
+                <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                    height="68px" width="68px">
+            </td>
+            <td>
+                <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                    height="68px" width="68px">
+            </td>
+        </tr>
+
+
+        <tr style="margin-left: 400px;">
+            <td>
+                <h2>Altair MTB HT &#x1F6B2;</h2>
+            </td>
+            <td>
+                <h2 style >ADRIATICA &#x1F6B2;</h2>
+            </td>
+            <td>
+                <h2>Cube Nutrail &#x1F6B2;</h2>
+            </td>
+        </tr>
+
+
+        </table>
+
+
+
+
+
+
+        <h3>
+            <p>
+                МОТОЦИКЛЫ
+            </p>
+        </h3>
+
+
+
+
+
+
+        <table class="moto">
+            <tr>
+                <td>
+                    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                        height="68px" width="68px">
+                </td>
+                <td>
+                    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                        height="68px" width="68px">
+                </td>
+                <td>
+                    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                        height="68px" width="68px">
+                </td>
+            </tr>
+
+
+            <tr style="margin-left: 400px;">
+                <td>
+                    <h2>Куклотех 228 &#x1F6B2;</h2>
+                </td>
+                <td>
+                    <h2 style >ADRIATICA &#x1F6B2;</h2>
+                </td>
+                <td>
+                    <h2>Cube Nutrail &#x1F6B2;</h2>
+                </td>
+            </tr>
+
+
+        <tr>
+            <td>
+                <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                    height="68px" width="68px">
+            </td>
+            <td>
+                <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                    height="68px" width="68px">
+            </td>
+            <td>
+                <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_QnHfnXq0oI7ji0cReVM5E84mrCYkK48TrQ8x9LSv9XpRGWOOdbIAj-ZKuQstFHvzR7JbyxstYBblRPu7X-qsGDpdIE09SkOife0qO9yRWIv4leyil4hepYk&usqp=CAE"
+                    height="68px" width="68px">
+            </td>
+        </tr>
+
+
+        <tr style="margin-left: 400px;">
+            <td>
+                <h2>Altair MTB HT &#x1F6B2;</h2>
+            </td>
+            <td>
+                <h2 style >ADRIATICA &#x1F6B2;</h2>
+            </td>
+            <td>
+                <h2>Cube Nutrail &#x1F6B2;</h2>
+            </td>
+        </tr>
+
+
+        </table>
+    </body>
+
+
+</main>
+</html>
+
